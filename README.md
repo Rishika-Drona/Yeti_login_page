@@ -31,6 +31,10 @@ The character's animation is achieved using CSS animations and JavaScript event 
 
 The login page is designed to be easily maintainable and customizable. Developers can modify the character's appearance and animations to fit different themes or integrate it into other applications seamlessly.
 
+
 Feedback and Contributions
 I welcome your feedback and contributions to improve this interactive login page. If you encounter any issues or have suggestions for enhancing the user experience, please feel free to open an issue or submit a pull request on our GitHub repository.
+
+
+![Login page](https://github.com/Rishika-Drona/Yeti_login_page/assets/74383234/1dcb891d-e786-4bea-a03f-2d36d959f52a)
 
