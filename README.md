@@ -36,8 +36,10 @@ Feedback and Contributions
 I welcome your feedback and contributions to improve this interactive login page. If you encounter any issues or have suggestions for enhancing the user experience, please feel free to open an issue or submit a pull request on our GitHub repository.
 
 
+                                           
+                                           ![Login page](https://github.com/Rishika-Drona/Yeti_login_page/assets/74383234/973a7006-d421-46fb-a6a2-56e158d3760b)
 
-                                                  https://github.com/Rishika-Drona/Yeti_login_page/assets/74383234/f2506fda-378a-443f-9362-0a2fa4d1bb3e
+                                                  
 
 
 
